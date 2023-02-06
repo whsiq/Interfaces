@@ -1,1 +1,5 @@
-This is a test file with some words being less than five letters and some words being greater than five letters.
+This is a test file
+with some words being
+less than five letters
+and some words being
+greater than five letters

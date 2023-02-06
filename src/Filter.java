@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Filter {
+public interface Filter {
+    boolean accept(Object x);
 }
